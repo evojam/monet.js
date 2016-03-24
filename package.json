@@ -9,5 +9,8 @@
     "url": "git@github.com:cwmyers/monet.js.git"
   },
   "main": "src/main/javascript/monet.js",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "1.8.9"
+  }
 }
