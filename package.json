@@ -12,5 +12,8 @@
   "dependencies": {},
   "devDependencies": {
     "typescript": "1.8.9"
+  },
+  "scripts": {
+    "test": "node node_modules/typescript/bin/tsc -m system --noEmit"
   }
 }
