@@ -10,10 +10,7 @@
   },
   "main": "src/main/javascript/monet.js",
   "dependencies": {},
-  "devDependencies": {
-    "typescript": "1.8.9"
-  },
   "scripts": {
-    "test": "node node_modules/typescript/bin/tsc -m system --noEmit"
+    "test": "node node_modules/typescript/bin/tsc -m system --noEmit --listFiles"
   }
 }
